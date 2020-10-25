@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👩‍💻 I'm a CSE undergrad at IIIT-Sricity
+- 👩‍🔬 Eager to learn anything new
+- Not really smart / fast learner 🤷‍♀️, but a hard worker, trying to give my best at anything 🙆‍♀️
+- 🤖 I enjoy coding
+- ⚡ Fun fact: Half of my time gets wasted coz my brain keeps thinking in a single direction to solve something 🤧 
+
 <!--
 **swathi-vennela/swathi-vennela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
